@@ -3,3 +3,4 @@ Second line
 Third line
 Fourth line
 This is the fifth line from feature-1 branch
+This is the sixth line from feature-2 branch
